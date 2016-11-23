@@ -5,6 +5,6 @@ Using d3's force layout
 
 •	Added search bar with autocomplete feature. User filters data displayed by entering search terms
 
-•	The SVG is places in the center of the screend
-•	Once search bar is cleared all the nodes return to the screen.
-User filters data displayed by entering search terms
+•	The SVG is placed in the center of the screen.
+
+•	Once search bar is cleared all the nodes in the dataset returns to the screen.
